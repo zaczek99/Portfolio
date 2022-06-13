@@ -17,4 +17,4 @@
 * SQL - język zapytań do bazy danych SQL Server, Organizator: Dariusz Skórniewski, 2022
 
 # My tests
-* [Allegro](https://docs.google.com/spreadsheets/d/1LYiNs2nF46T56bBM-z9VKunvJ1dS90RX/edit#gid=1062386265)
+* [Allegro buying tests](https://docs.google.com/spreadsheets/d/1LYiNs2nF46T56bBM-z9VKunvJ1dS90RX/edit#gid=1062386265)
