@@ -1,4 +1,6 @@
 # About me
+Nazywam się Dominik Żaczek i jestem studentem w Wyższej Szkole Bankowej w Gdańsku na kierunku Informatyka. Zamierzam rozwijać się w kierunku testowania. Na początku manualnego, jednak w przyszłości chciałbym przejść na automatyke. Hobbystycznie interesuje się Frondendem, był to mój pierwszy krok w strone IT. Na praktykach zagranicznych erasmus+ poznałem bibliotekę Bootstrap oraz podstawy SQL, które wciąż rozwijam. 
+
 
 # Tech Skills
 
