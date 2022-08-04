@@ -13,8 +13,12 @@ Nazywam się Dominik Żaczek i jestem studentem w Wyższej Szkole Bankowej w Gda
 
 * EUROPASS-MOBILITY - Praktyki Zagraniczne Oknem na Świat, Organizator: Erasmus+ PC CENTER BERGAMO SRL, Włochy, 2018
 
+# Książki
+
 
 # Kursy
+
+* Certyfikowany tester ISTQB. Poziom podstawowy. Autor:	Roman Adam , Stapp Lucjan
 
 * Podstawy manualnego testowania oprogramowania, Organizator: Tester Oprogramowania, 2022
 * SQL - język zapytań do bazy danych SQL Server, Organizator: Dariusz Skórniewski, 2022
