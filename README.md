@@ -15,10 +15,9 @@ Nazywam się Dominik Żaczek i jestem studentem w Wyższej Szkole Bankowej w Gda
 
 # Książki
 
+* Certyfikowany tester ISTQB. Poziom podstawowy. Autor:	Roman Adam , Stapp Lucjan
 
 # Kursy
-
-* Certyfikowany tester ISTQB. Poziom podstawowy. Autor:	Roman Adam , Stapp Lucjan
 
 * Podstawy manualnego testowania oprogramowania, Organizator: Tester Oprogramowania, 2022
 * SQL - język zapytań do bazy danych SQL Server, Organizator: Dariusz Skórniewski, 2022
